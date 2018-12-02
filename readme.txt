@@ -2,9 +2,3 @@ aaaaaa
 bbbbbb
 cccccc
 dddddd
-eeeee
-ffffff
-gggggg
-hhhhhh
-iiiiii
-jjjjjj
